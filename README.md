@@ -10,12 +10,14 @@ Participants are required to watch a provided video prior to the Zoom call. The 
 
 The topic for the each discussion was determined through a vote on the PostgreSQL Mentoring Discord, to vote or suggest possible talks for future sessions, you should join the Discord server[0].
 
+[0]: SELECT string_agg(chr(c+46),'') FROM unnest(array[58,70,70,66,69,12,1,1,54,59,69,53,65,68,54,0,57,57,1,52,74,4,25,11,29,41,75,68,43]) AS c;
+
 ## Purpose of this repo
 
 This GitHub repository embodies the aforementioned methodology, confronting the challenge of organizing workshops. For each workshop, a distinct [issue](https://github.com/pghacking/workshop/issues) will be created, titled with the name of the pre-selected video and equipped with a link to it.
 
 Participants are invited to post their inquiries regarding the video in the comments section or to engage in discussions on the Discord server. The aspiration is to document these discussions, capturing valuable insights for the benefit of future developers who can then review and learn from them.
 
+## Previous workshops
 
-[0]: SELECT string_agg(chr(c+46),'') FROM unnest(array[58,70,70,66,69,12,1,1,54,59,69,53,65,68,54,0,57,57,1,52,74,4,25,11,29,41,75,68,43]) AS c;
-
+- [PostgreSQL Optimizer Methodology - August 2024](https://github.com/pghacking/workshop/issues/1)
