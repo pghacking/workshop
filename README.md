@@ -21,3 +21,6 @@ Participants are invited to post their inquiries regarding the video in the comm
 ## Previous workshops
 
 - [PostgreSQL Optimizer Methodology - August 2024](https://github.com/pghacking/workshop/issues/1)
+- [Walk-through of Implementing Simple Postgres Patch: From sources to CI - Septemper 2024](https://github.com/pghacking/workshop/issues/2)
+- [Streaming I/O and vectored I/O - October 2024](https://github.com/pghacking/workshop/issues/3)
+
