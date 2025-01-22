@@ -24,4 +24,6 @@ Participants are invited to post their inquiries regarding the video in the comm
 - [Walk-through of Implementing Simple Postgres Patch: From sources to CI - Septemper 2024](https://github.com/pghacking/workshop/issues/2)
 - [Streaming I/O and vectored I/O - October 2024](https://github.com/pghacking/workshop/issues/3)
 - [Memory Management + Buffer Cache - November 2024](https://github.com/pghacking/workshop/issues/4)
+- [Intro to Postgres Planner - December 2024](https://github.com/pghacking/workshop/issues/5)
+- [NUMA vs PostgreSQL - January 2025](https://github.com/pghacking/workshop/issues/6)
 
