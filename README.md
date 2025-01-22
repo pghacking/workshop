@@ -20,10 +20,13 @@ Participants are invited to post their inquiries regarding the video in the comm
 
 ## Previous workshops
 
-- [PostgreSQL Optimizer Methodology - August 2024](https://github.com/pghacking/workshop/issues/1)
-- [Walk-through of Implementing Simple Postgres Patch: From sources to CI - Septemper 2024](https://github.com/pghacking/workshop/issues/2)
-- [Streaming I/O and vectored I/O - October 2024](https://github.com/pghacking/workshop/issues/3)
-- [Memory Management + Buffer Cache - November 2024](https://github.com/pghacking/workshop/issues/4)
-- [Intro to Postgres Planner - December 2024](https://github.com/pghacking/workshop/issues/5)
-- [NUMA vs PostgreSQL - January 2025](https://github.com/pghacking/workshop/issues/6)
+- **Year 2024**
+    - [PostgreSQL Optimizer Methodology - August](https://github.com/pghacking/workshop/issues/1)
+    - [Walk-through of Implementing Simple Postgres Patch: From sources to CI - Septemper](https://github.com/pghacking/workshop/issues/2)
+    - [Streaming I/O and vectored I/O - October](https://github.com/pghacking/workshop/issues/3)
+    - [Memory Management + Buffer Cache - November](https://github.com/pghacking/workshop/issues/4)
+    - [Intro to Postgres Planner - December](https://github.com/pghacking/workshop/issues/5)
+
+- **Year 2025**
+    - [NUMA vs PostgreSQL - January](https://github.com/pghacking/workshop/issues/6)
 
