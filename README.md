@@ -29,4 +29,10 @@ Participants are invited to post their inquiries regarding the video in the comm
 
 - **Year 2025**
     - [NUMA vs PostgreSQL - January](https://github.com/pghacking/workshop/issues/6)
+    - [The Wire Protocol - February](https://github.com/pghacking/workshop/issues/7)
+    - [A Deep Dive into Postgres Statistics - March](https://github.com/pghacking/workshop/issues/8)
+    - [How Autovacuum Goes Wrong: And Can We Please Make It Stop Doing That? - April](https://github.com/pghacking/workshop/issues/9)
+    - *no hacking workshop in May due to [2025.pgconf.dev](2025.pgconf.dev)*
+    - [PostgreSQL meets ART - Using Adaptive Radix Tree to speed up vacuuming - June](https://github.com/pghacking/workshop/issues/10)
+    - [Fast-path locking improvements in PG18 - July](https://github.com/pghacking/workshop/issues/11)
 
