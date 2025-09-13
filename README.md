@@ -35,4 +35,5 @@ Participants are invited to post their inquiries regarding the video in the comm
     - *no hacking workshop in May due to [2025.pgconf.dev](https://2025.pgconf.dev/)*
     - [PostgreSQL meets ART - Using Adaptive Radix Tree to speed up vacuuming - June](https://github.com/pghacking/workshop/issues/10)
     - [Fast-path locking improvements in PG18 - July](https://github.com/pghacking/workshop/issues/11)
-
+    - [Multidimensional search strategies for composite B-Tree indexes - August](https://github.com/pghacking/workshop/issues/12)
+    - [Writing fast C code for a modern CPU (and applying it to PostgreSQL) - September](https://github.com/pghacking/workshop/issues/13)
