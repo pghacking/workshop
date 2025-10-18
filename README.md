@@ -6,6 +6,8 @@
 ## Previous workshops
 
 - **Year 2025**
+    - [Improving scalability; Reducing overhead in shared memory - November](https://github.com/pghacking/workshop/issues/15)
+    - [Investigating Multithreaded PostgreSQL - October](https://github.com/pghacking/workshop/issues/14)
     - [Writing fast C code for a modern CPU (and applying it to PostgreSQL) - September](https://github.com/pghacking/workshop/issues/13)
     - [Multidimensional search strategies for composite B-Tree indexes - August](https://github.com/pghacking/workshop/issues/12)
     - [Fast-path locking improvements in PG18 - July](https://github.com/pghacking/workshop/issues/11)
