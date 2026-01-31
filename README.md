@@ -5,6 +5,10 @@
 
 ## Previous workshops
 
+- **Year 2026**
+    - [Hacking Postgres Executor For Performance - February](https://github.com/pghacking/workshop/issues/17)
+    - [What went wrong with AIO - January](https://github.com/pghacking/workshop/issues/16)
+
 - **Year 2025**
     - [Improving scalability; Reducing overhead in shared memory - November](https://github.com/pghacking/workshop/issues/15)
     - [Investigating Multithreaded PostgreSQL - October](https://github.com/pghacking/workshop/issues/14)
