@@ -6,6 +6,8 @@
 ## Previous workshops
 
 - **Year 2026**
+    - [Breaking away from FREEZE and Wraparound - April](https://github.com/pghacking/workshop/issues/19)
+    - [Performance Archaeology - March](https://github.com/pghacking/workshop/issues/18)
     - [Hacking Postgres Executor For Performance - February](https://github.com/pghacking/workshop/issues/17)
     - [What went wrong with AIO - January](https://github.com/pghacking/workshop/issues/16)
 
