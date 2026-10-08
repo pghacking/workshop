@@ -9,6 +9,7 @@
     - [pg_plan_advice: Plan Stability and User Planner Control for PostgreSQL? - October](https://github.com/pghacking/workshop/issues/22)
     - [Optimizing code in the hot path; with examples from tuple deformation - September](https://github.com/pghacking/workshop/issues/21)
     - [Additional IO Observability in Postgres with pg_stat_io - June/July](https://github.com/pghacking/workshop/issues/20)
+    - *no hacking workshop in May due to [2026.pgconf.dev](https://2026.pgconf.dev/)*
     - [Breaking away from FREEZE and Wraparound - April](https://github.com/pghacking/workshop/issues/19)
     - [Performance Archaeology - March](https://github.com/pghacking/workshop/issues/18)
     - [Hacking Postgres Executor For Performance - February](https://github.com/pghacking/workshop/issues/17)
