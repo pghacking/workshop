@@ -6,6 +6,7 @@
 ## Previous workshops
 
 - **Year 2026**
+    - [Table repacking, done right - November](https://github.com/pghacking/workshop/issues/25)
     - [pg_plan_advice: Plan Stability and User Planner Control for PostgreSQL? - October](https://github.com/pghacking/workshop/issues/22)
     - [Optimizing code in the hot path; with examples from tuple deformation - September](https://github.com/pghacking/workshop/issues/21)
     - [Additional IO Observability in Postgres with pg_stat_io - June/July](https://github.com/pghacking/workshop/issues/20)
